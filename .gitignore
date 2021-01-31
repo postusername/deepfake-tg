@@ -1,4 +1,8 @@
-# Ignore python cache
+# Python cache
 /__pycache__/
 
+# SECURITY: Win-scripts
 *.bat
+
+# Downloaded photos
+/photos/
