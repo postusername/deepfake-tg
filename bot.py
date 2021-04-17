@@ -84,5 +84,5 @@ class Bot:
         
         update.message.reply_text(TEXT_START_SEND_VIDEO)
         vid = open(r'./demo.mp4', 'rb')
-        update.message.reply_video(video=vid, duration=30, width=640, height=360, timeout=SEND_VIDEO_TIMEOUT)
+        update.message.reply_video(video=vid, duration=253, width=640, height=360, timeout=SEND_VIDEO_TIMEOUT)
         update.message.reply_text(TEXT_VIDEO_CAPTION, reply_markup=back_keyboard)
