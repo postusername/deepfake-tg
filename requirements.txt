@@ -1,2 +1,6 @@
 python-telegram-bot>=13.1
 keyboard>=0.13.5
+imageio>=2.2.0
+numpy>=1.18.0
+matplotlib>=2.1.0
+skimage>=0.13.0
