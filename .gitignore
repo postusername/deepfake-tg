@@ -4,5 +4,6 @@
 # SECURITY: Win-scripts
 *.bat
 
-# Downloaded photos
+# Downloaded photos and vids
 /photos/
+/videos/
